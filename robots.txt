@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erigapar.github.io/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/app/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/assets/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/css/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/data/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/includes/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/item/sitemap.erigapar.gz
+Sitemap: https://erigapar.github.io/src/sitemap.erigapar.gz
